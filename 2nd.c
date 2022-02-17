@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("This is a new message");
+	printf("This is a message");
 }
